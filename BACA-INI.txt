@@ -1,0 +1,11 @@
+Semua foto & sertifikat utama sudah terpasang di website:
+profile.jpg, lab-1/2/3.jpg, wispo.jpg, puncakhill-1/4.jpg,
+hermonia-1.jpg, powerbi-dashboard.jpg, cert-excel.jpg.
+
+File berikut ada di folder ini tapi belum dipakai di halaman
+(cadangan kalau nanti mau ditambahkan/diganti):
+- puncakhill-2.jpg, puncakhill-3.jpg (screen order & konfirmasi)
+- hermonia-login.jpg, hermonia-detail.jpg (screen login & detail produk)
+- powerbi-tables.jpg (screenshot daftar tabel data)
+
+Aman dihapus kalau tidak diperlukan.
